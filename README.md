@@ -1,2 +1,4 @@
 # git-repo-collaboration
-Collaboration project
+
+## Dino Abrego
+Don't spend too much time on this; just write a sentence or two. 
