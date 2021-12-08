@@ -1,4 +1,7 @@
 # git-repo-collaboration
 
-## Dino Abrego
-Don't spend too much time on this; just write a sentence or two. 
+Collaboration project
+
+## Abimael Monarrez
+
+ I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
